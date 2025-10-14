@@ -85,6 +85,12 @@
 
 
 ---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yelani-vihansa&bg_color=ffffff&color=aa69d4&line=bb86fc&point=5e3b8b&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
+
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=aa69d4&height=100&section=footer"/>
