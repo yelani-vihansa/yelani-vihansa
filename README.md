@@ -92,11 +92,7 @@
 
 ---
 
----
-### 📈 GitHub Contribution Graph:
-<p align="center">
-  <img src="https://ghchart.rshah.org/aa69d4/yelani-vihansa" alt="GitHub Contribution Graph" />
-</p>
+
 
 ---
 
