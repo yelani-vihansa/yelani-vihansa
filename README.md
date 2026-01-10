@@ -82,25 +82,7 @@
 </p>
 
 ---
-### 📊 GitHub Stats:
-<div align="center">
-  
-  <!-- Simple Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yelani-vihansa&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" />
-  
-  <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yelani-vihansa&layout=compact&theme=dark" alt="Top Languages" />
-  
-</div>
 
-
----
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yelani-vihansa&bg_color=f6f8fa&color=aa69d4&line=aa69d4&point=7a3fb0&area=true&hide_border=true" />
-</p>
-
-
----
 
 
 
