@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ab73d1&height=200&section=header&text=Hi,%20I'm%20Yelani%20Vihansa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BSc%20(Hons)%20IT%20-%20Data%20Science%20%7C%20SLIIT&descAlignY=55&descColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ab73d1&height=200&section=header&text=Hi,%20I'm%20Yelani%20Vihansa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=yelani-vihansa&label=Profile%20views&color=7c3aed&style=flat)
 
