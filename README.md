@@ -49,14 +49,15 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yelani-vihansa&show_icons=true&hide_border=true&bg_color=f3e8ff&title_color=6d28d9&icon_color=a855f7&text_color=4c1d95" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yelani-vihansa&layout=compact&hide_border=true&bg_color=f3e8ff&title_color=6d28d9&text_color=4c1d95" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yelani-vihansa&hide_border=true&background=f3e8ff&ring=a855f7&fire=a855f7&currStreakNum=4c1d95&sideNums=4c1d95&currStreakLabel=6d28d9&sideLabels=6d28d9&dates=4c1d95" alt="Yelani's GitHub Streak" />
 </div>
-
+---
+### 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yelani-vihansa&bg_color=f3e8ff&color=4c1d95&line=a855f7&point=6d28d9&area=true&hide_border=true" alt="Yelani's Activity Graph" />
+</div>
 ---
 
 <div align="center">
