@@ -54,11 +54,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yelani-vihansa&hide_border=true&background=f3e8ff&ring=a855f7&fire=a855f7&currStreakNum=4c1d95&sideNums=4c1d95&currStreakLabel=6d28d9&sideLabels=6d28d9&dates=4c1d95" alt="Yelani's GitHub Streak" />
 </div>
 ---
-### 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yelani-vihansa&bg_color=f3e8ff&color=4c1d95&line=a855f7&point=6d28d9&area=true&hide_border=true" alt="Yelani's Activity Graph" />
-</div>
----
+
 
 <div align="center">
    <img src="https://capsule-render.vercel.app/api?type=waving&color=ab73d1&height=100&section=footer"/>
