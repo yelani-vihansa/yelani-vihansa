@@ -49,9 +49,12 @@
 </p>
 
 ---
+
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yelani-vihansa&hide_border=true&background=f3e8ff&ring=a855f7&fire=a855f7&currStreakNum=4c1d95&sideNums=4c1d95&currStreakLabel=6d28d9&sideLabels=6d28d9&dates=4c1d95" alt="Yelani's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yelani-vihansa&hide_border=true&background=f3e8ff&ring=a855f7&fire=a855f7&currStreakNum=4c1d95&sideNums=4c1d95&currStreakLabel=6d28d9&sideLabels=6d28d9&dates=4c1d95&stroke=a855f7" height="165" alt="Yelani's GitHub Streak" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://readme-stats-github.pages.dev/api/top-langs/?username=yelani-vihansa&layout=compact&hide_border=true&bg_color=f3e8ff&title_color=6d28d9&text_color=4c1d95" height="165" alt="Yelani's Top Languages" />
 </div>
 ---
 
